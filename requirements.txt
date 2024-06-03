@@ -1,9 +1,5 @@
 Flask
-gensim
-Gunicorn
-numpy
 pytube
-regex
 scikit-learn
 spacy
 pandas
