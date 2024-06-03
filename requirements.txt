@@ -1,12 +1,13 @@
-Flask==2.0.1
-gensim==4.3.2
+Flask
+gensim
 Gunicorn
-numpy==1.24.1
+numpy
 pytube
-regex==2024.4.28
-scikit-learn==1.4.2
+regex
+scikit-learn
 spacy
 pandas
 youtube_transcript_api
+Werkzeug
 
 
